@@ -18,7 +18,7 @@
 * Built a cloud-native, production-ready ETL solution using Azure-first technologies and on-premises data connectivity.
 
 # Architecture Overview
-Local CSV Files → Self-Hosted IR → Azure Data Lake Gen2 (Raw) → ADF Pipelines & Data Flows → Azure Data Lake Gen2 (Processed) → MS SQL Server (Reporting)
+Local CSV Files → Self-Hosted IR → Azure Data Lake Gen2 (Raw) → ADF Pipelines & Data Flows → Azure Data Lake Gen2 (Processed) → Azure SQL Database (Reporting)
 
 * Master Pipeline         
 <img width="1920" height="1080" alt="Master_Pipeline" src="https://github.com/user-attachments/assets/52becc6d-68e1-4107-8f86-e64920ea7a85" />
