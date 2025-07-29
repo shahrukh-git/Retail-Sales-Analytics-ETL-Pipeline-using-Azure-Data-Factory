@@ -1,0 +1,201 @@
+product_id,product_name,category,unit_price
+101,Laptop,Electronics,999.99
+102,Smartphone,Electronics,699.50
+103,Wireless Headphones,Accessories,149.99
+104,Desk Chair,Furniture,199.00
+105,Coffee Maker,Appliances,89.95
+106,Yoga Mat,Sports,29.99
+107,Blender,Appliances,49.99
+108,Smart Watch,Electronics,249.00
+109,Throw Pillow,Home Decor,24.50
+110,Running Shoes,Footwear,119.95
+111,Backpack,Accessories,59.99
+112,Air Fryer,Appliances,79.99
+113,Graphic T-Shirt,Apparel,19.99
+114,External SSD,Electronics,129.00
+115,Desk Lamp,Home Office,45.00
+116,Water Bottle,Accessories,22.95
+117,Jeans,Apparel,59.50
+118,Board Game,Toys,39.99
+119,Perfume,Beauty,89.00
+120,Wall Clock,Home Decor,35.50
+121,Fitness Tracker,Electronics,79.99
+122,Cookware Set,Kitchen,299.00
+123,Novel,Books,14.99
+124,Sunglasses,Accessories,129.99
+125,Bluetooth Speaker,Electronics,89.00
+126,Throw Blanket,Home Decor,39.95
+127,Dress Shirt,Apparel,49.99
+128,Robot Vacuum,Appliances,349.00
+129,Notebook,Stationery,12.99
+130,Hand Mixer,Kitchen,45.99
+131,Wireless Mouse,Electronics,29.99
+132,Candle Set,Home Decor,28.50
+133,Hoodie,Apparel,44.99
+134,Drone,Electronics,499.00
+135,Suitcase,Luggage,179.00
+136,Electric Toothbrush,Health,99.95
+137,Plant Pot,Home & Garden,19.99
+138,Gaming Console,Electronics,449.00
+139,Salad Spinner,Kitchen,24.99
+140,Portable Charger,Electronics,35.00
+141,Bath Towel Set,Home,32.99
+142,Digital Camera,Electronics,599.00
+143,Acrylic Paint Set,Arts,42.50
+144,Keyboard,Electronics,129.99
+145,Coasters,Home Decor,15.99
+146,Snow Boots,Footwear,139.99
+147,Face Cream,Beauty,29.50
+148,Monitor,Electronics,279.00
+149,Cast Iron Skillet,Kitchen,39.99
+150,Wireless Earbuds,Electronics,159.99
+151,Area Rug,Home Decor,199.00
+152,Printer,Electronics,149.00
+153,Coloring Book,Books,9.99
+154,Necklace,Jewelry,89.99
+155,Projector,Electronics,399.00
+156,Bar Stool,Furniture,129.00
+157,Shower Curtain,Home,24.99
+158,Tablet,Electronics,329.00
+159,Measuring Cups,Kitchen,18.99
+160,Ankle Boots,Footwear,109.99
+161,Desk Organizer,Home Office,29.95
+162,Action Figure,Toys,24.99
+163,Handbag,Accessories,159.00
+164,Floor Lamp,Home Decor,89.99
+165,Jacket,Apparel,79.99
+166,Tea Set,Kitchen,49.95
+167,Resistance Bands,Fitness,19.99
+168,Smart Bulb,Electronics,24.99
+169,Wall Art,Home Decor,59.00
+170,Umbrella,Accessories,35.00
+171,Chess Set,Toys,29.99
+172,Sheet Set,Home,69.95
+173,Electric Kettle,Kitchen,45.00
+174,Sweater,Apparel,64.99
+175,Webcam,Electronics,89.99
+176,Pet Bed,Pet Supplies,39.99
+177,Wallet,Accessories,49.99
+178,Curtain Rod,Home,28.50
+179,Yoga Blocks,Fitness,22.99
+180,Smart Plug,Electronics,19.99
+181,Copper Mug,Kitchen,24.95
+182,Baseball Cap,Apparel,29.99
+183,Scarf,Accessories,34.50
+184,Photo Frame,Home Decor,21.99
+185,Sleep Mask,Health,16.99
+186,USB Hub,Electronics,25.00
+187,Salad Bowl Set,Kitchen,35.99
+188,Keychain,Accessories,12.99
+189,Wall Shelf,Furniture,59.00
+190,Mouse Pad,Electronics,15.99
+191,Essential Oil Set,Wellness,29.99
+192,Bookend,Home Office,18.50
+193,Phone Stand,Accessories,14.99
+194,Vegetable Peeler,Kitchen,9.99
+195,Ankle Socks,Apparel,12.50
+196,Car Phone Mount,Electronics,19.95
+197,Bath Mat,Home,22.99
+198,Stainless Steel Bottle,Accessories,29.00
+199,Letter Tray,Home Office,24.99
+200,Graphic Novel,Books,24.99
+201,Ergonomic Keyboard,Electronics,79.99
+202,Memory Foam Pillow,Home,49.95
+203,French Press,Kitchen,32.50
+204,Gaming Mouse,Electronics,59.99
+205,Linen Napkins,Home,28.00
+206,Resistance Band Set,Fitness,34.99
+207,Desktop Stand,Electronics,45.00
+208,Herb Garden Kit,Garden,39.99
+209,Noise-Canceling Earbuds,Electronics,199.00
+210,Ceramic Vase,Home Decor,42.99
+211,Wireless Charging Pad,Electronics,29.99
+212,Chef's Knife,Kitchen,89.00
+213,Fleece Blanket,Home,37.50
+214,Graphing Calculator,Electronics,129.95
+215,Aromatherapy Diffuser,Wellness,49.99
+216,Shoe Organizer,Home,31.99
+217,Mechanical Pencil Set,Stationery,19.95
+218,Smart Doorbell,Electronics,249.00
+219,Cutting Board Set,Kitchen,54.99
+220,Acoustic Guitar,Musical Instruments,199.00
+221,Silk Pillowcase,Home,39.00
+222,Car Vacuum,Automotive,59.99
+223,Document Scanner,Electronics,179.00
+224,Infinity Scarf,Accessories,27.99
+225,Milk Frother,Kitchen,24.95
+226,Portable Monitor,Electronics,279.00
+227,Bamboo Coasters,Home,22.50
+228,Cordless Drill,Tools,129.99
+229,Leather Journal,Stationery,34.99
+230,Virtual Reality Headset,Electronics,349.00
+231,Decorative Tray,Home Decor,29.99
+232,Espresso Machine,Appliances,399.00
+233,Stainless Steel Lunch Box,Kitchen,36.00
+234,Smart Thermostat,Electronics,249.95
+235,Macrame Wall Hanging,Home Decor,45.99
+236,Blender Bottle,Fitness,12.99
+237,HDMI Cable,Electronics,14.99
+238,Marble Cheese Board,Kitchen,49.95
+239,Adjustable Dumbbells,Fitness,199.00
+240,Electric Blanket,Home,89.99
+241,Graphic Card,Electronics,599.00
+242,Herb Scissors,Kitchen,18.99
+243,Watercolor Paint Set,Arts,29.50
+244,Network Router,Electronics,159.00
+245,Decorative Throw Pillow,Home,32.99
+246,Salad Container Set,Kitchen,28.50
+247,Wireless Presenter,Electronics,49.99
+248,Glass Food Storage,Kitchen,39.99
+249,Reading Light,Home,24.95
+250,CPU Cooler,Electronics,89.00
+251,Wooden Spoon Set,Kitchen,22.99
+252,Magnetic Phone Case,Accessories,34.99
+253,Desk Mat,Home Office,29.00
+254,Solid State Drive,Electronics,109.99
+255,Herbal Tea Sampler,Food,26.50
+256,Posture Corrector,Health,39.95
+257,Computer Speakers,Electronics,79.99
+258,Non-Stick Baking Mat,Kitchen,19.99
+259,Calligraphy Pen Set,Arts,45.00
+260,Power Bank,Electronics,42.99
+261,Wall Calendar,Home,18.99
+262,Vegetable Spiralizer,Kitchen,29.95
+263,USB Microphone,Electronics,129.00
+264,Silk Flowers,Home Decor,32.50
+265,Meal Prep Containers,Kitchen,36.99
+266,Graphics Tablet,Electronics,149.00
+267,Decorative Book Set,Home,59.95
+268,Immersion Blender,Kitchen,49.99
+269,Studio Headphones,Electronics,179.00
+270,Glass Water Bottle,Kitchen,24.99
+271,Smart Scale,Electronics,89.95
+272,Wooden Cutting Board,Kitchen,44.00
+273,LED Strip Lights,Electronics,29.99
+274,Ceramic Mug Set,Kitchen,35.50
+275,Video Doorbell,Electronics,199.00
+276,Spice Rack,Kitchen,42.99
+277,Wireless Keyboard/Mouse Combo,Electronics,69.99
+278,Avocado Tool Set,Kitchen,19.95
+279,Drawing Tablet,Electronics,249.00
+280,Measuring Spoon Set,Kitchen,14.99
+281,Smart Lock,Electronics,229.00
+282,Bamboo Utensil Set,Kitchen,28.50
+283,Portable Projector,Electronics,299.00
+284,Herb Grinder,Kitchen,22.99
+285,Noise Machine,Electronics,49.95
+286,Salad Dressing Shaker,Kitchen,16.99
+287,WiFi Extender,Electronics,59.99
+288,Potato Ricer,Kitchen,24.50
+289,Digital Notebook,Electronics,179.00
+290,Microplane Grater,Kitchen,29.99
+291,Car Jump Starter,Automotive,129.95
+292,Mandoline Slicer,Kitchen,39.99
+293,Smart Ceiling Light,Electronics,89.00
+294,Mortar and Pestle,Kitchen,34.50
+295,3D Printer,Electronics,499.00
+296,Herb Keeper,Kitchen,19.99
+297,Soldering Iron,Electronics,45.99
+298,Citrus Juicer,Kitchen,28.99
+299,Home Security Camera,Electronics,159.00
+300,Garlic Press,Kitchen,15.99
