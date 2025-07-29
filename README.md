@@ -7,7 +7,6 @@
 
 # Summary:
 * Designed and implemented an end-to-end ETL pipeline using Azure Data Factory to ingest customer, product, and sales data from local CSV files via a Self-Hosted Integration Runtime (SHIR). 
-* The project was executed entirely without Azure Databricks.
 
 # Key Highlights:
 * Used Self-Hosted Integration Runtime to securely load CSV files from on-prem/local system into Azure Data Lake Gen2 (Raw zone).
